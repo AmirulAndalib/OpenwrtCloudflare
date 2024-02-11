@@ -2,7 +2,7 @@
 # Cloudflared install for Locally and Web Managed
 # Script to install cloudflare tunnel on a Raspberry Pi or x86 running OpenWrt
 # or cloudflare tunnels on Openwrt_x86
-# Copyright (C) 2022 C. Brown (dev@coralesoft)
+# Copyright (C) 2022 -2024 C. Brown (dev@coralesoft)
 # GNU General Public License
 # Last revised 08/05/2023
 # version 2023.5.1
