@@ -2,7 +2,7 @@
 
 
 > [!IMPORTANT]
-> The official OpenWrt packages feed now has the `cloudflared` package and Luci Application `luci-app-cloudflared` that provides a GUI for configuration.
+> The official OpenWrt packages now has the `cloudflared` package and Luci Application `luci-app-cloudflared` that provides a GUI for configuration.
 >  You can install them with the command `opkg install cloudflared luci-app-cloudflared`
 
 
