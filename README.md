@@ -31,24 +31,9 @@ The script pulls down the latest version of cloudflared and installs it
 ## uninstall-cloudflared.sh
 This Script cleanly uninstalls / removes cloudflared.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of 7365d65 (Merge pull request #18 from stokito/patch-1)
-=======
->>>>>>> parent of 7365d65 (Merge pull request #18 from stokito/patch-1)
 
 ## Todo
 
 * [ ] Openwrt LuCI App
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 4c093c5 (README.md mention cloudflare OpenWrt package)
-=======
->>>>>>> parent of 7365d65 (Merge pull request #18 from stokito/patch-1)
-=======
->>>>>>> parent of 7365d65 (Merge pull request #18 from stokito/patch-1)
