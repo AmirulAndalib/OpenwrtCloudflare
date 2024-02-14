@@ -1,12 +1,5 @@
 # Supports Raspberry Pi 4 and x86 based OpenWrt Routers setting up Cloudflare tunnels
 
-
-> [!IMPORTANT]
-> The official OpenWrt packages feed now has the `cloudflared` package and Luci Application `luci-app-cloudflared` that provides a GUI for configuration.
->  You can install them with the command `opkg install cloudflared luci-app-cloudflared`
-
-
-
 This install script will install a Cloudflare tunnel on an Raspberry Pi4 running as a OpenWrt Router\
 or running a machine based on OpenWrt x86\
 This allows both Locally or Web Managed Tunnels\
@@ -39,11 +32,17 @@ The script pulls down the latest version of cloudflared and installs it
 This Script cleanly uninstalls / removes cloudflared.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 7365d65 (Merge pull request #18 from stokito/patch-1)
 
 ## Todo
 
 * [ ] Openwrt LuCI App
 
 
+<<<<<<< HEAD
 >>>>>>> parent of 4c093c5 (README.md mention cloudflare OpenWrt package)
+=======
+>>>>>>> parent of 7365d65 (Merge pull request #18 from stokito/patch-1)
