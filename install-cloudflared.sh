@@ -4,7 +4,7 @@
 # or cloudflare tunnels on Openwrt_x86
 # Copyright (C) 2022 -2024 C. Brown (dev@coralesoft)
 # GNU General Public License
-# Last revised 08/05/2023
+# Last revised 09/11/2022
 # version 2023.5.1
 #-----------------------------------------------------------------------
 # Version      Date         Notes:
